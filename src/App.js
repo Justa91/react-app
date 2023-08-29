@@ -51,7 +51,7 @@ function App() {
         </div>
         <footer>
           <a
-            href="https://github.com/Justa91/weather-app"
+            href="https://github.com/Justa91/react-app"
             target="_blank"
             rel="noreferrer"
           >
