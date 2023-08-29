@@ -35,7 +35,7 @@ function App() {
                     Humidity: 10<span id="humidity"></span>%
                   </li>
                   <li>
-                    Wind: 9<span id="wind"></span> km/h
+                    Wind: 9<span id="wind"></span>km/h
                   </li>
                 </ul>
               </div>
